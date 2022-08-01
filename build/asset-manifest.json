@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a08ba5a1.css",
+    "main.js": "/static/js/main.7d4f5b3f.js",
+    "static/media/123.jpg": "/static/media/123.022c66e77e46306cb45f.jpg",
+    "static/media/logo.png": "/static/media/logo.6d63c6d801d817175471.png",
+    "static/media/clock-solid.svg": "/static/media/clock-solid.b362c7ee43306e5c413fdb4e93d31a2d.svg",
+    "index.html": "/index.html",
+    "main.a08ba5a1.css.map": "/static/css/main.a08ba5a1.css.map",
+    "main.7d4f5b3f.js.map": "/static/js/main.7d4f5b3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a08ba5a1.css",
+    "static/js/main.7d4f5b3f.js"
+  ]
+}
